@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site
 title:              Moon
 bio:                'Minimal, one column jekyll theme.'
@@ -74,3 +75,6 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+=======
+theme: jekyll-theme-cayman
+>>>>>>> da5794056bb646c4b33241a11d86349544c0d659
