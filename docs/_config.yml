@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site
 title:              Moon
 bio:                'Minimal, one column jekyll theme.'
@@ -9,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://deepsight-korea.github.io/
+url:                https://deepsight-korea.github.io/2017/
 
 # Jekyll
 permalink:          /:title/
@@ -75,6 +74,3 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-=======
-theme: jekyll-theme-cayman
->>>>>>> da5794056bb646c4b33241a11d86349544c0d659
